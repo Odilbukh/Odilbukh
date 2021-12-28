@@ -49,12 +49,10 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="siberfx.nl" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/globe.gif" />][website]
-[<img align="left" alt="siberfx | LinkedIn" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
-[<img align="left" alt="siberfx | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
-[<img align="left" alt="siberfx | Twitter" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/twitter.gif" />][twitter]
-[<img align="left" alt="siberfx | StackOverflow" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/stackoverflow.png" />][stackoverflow]
 [<img align="left" alt="siberfx | E-mail" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
 [<img align="left" alt="siberfx | Telegram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
+[<img align="left" alt="siberfx | LinkedIn" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
+[<img align="left" alt="siberfx | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
 
 <br />
 <br />
@@ -65,8 +63,8 @@ Here are some ideas to get you started:
 
 [email]: mailto:odil.bukh@gmail.com
 [telegram]: https://t.me/OTeleg
-[instagram]: https://instagram.com/odil_davronov/
-[linkedin]: https://www.linkedin.com/in/odil-davronov-1a1463202/
+[instagram]: https://instagram.com/odil_davronov
+[linkedin]: https://www.linkedin.com/in/odil-davronov-1a1463202
 
 [laravel]: https://laravel.com
 [symfony]: https://symfony.com
@@ -83,20 +81,11 @@ Here are some ideas to get you started:
 [vue]: https://vuejs.org
 [docker]: https://docker.com
 [shell]: https://ubuntu.com/tutorials/command-line-for-beginners
-[adobe]: https://adobe.com
-[gulp]: https://gulpjs.com/
 [postman]: https://postman.com
 [sublime]: https://www.sublimetext.com/
 [webstorm]: https://www.jetbrains.com/webstorm/
 [phpstorm]: https://www.jetbrains.com/phpstorm/
 [terminal]: https://cocalc.com/doc/terminal.html
-[gitlab]: https://gitlab.com/siberfx
-[bitbucket]: https://bitbucket.org/siberfx
 
-[rabbitmq]: https://www.rabbitmq.com/
-[aws-s3]: https://aws.amazon.com/s3/
-[aws-sqs]: https://aws.amazon.com/sqs/
 [pusher]: https://pusher.com/
-[wasabi]: https://wasabi.com/
-[mapbox]: https://www.mapbox.com/
 [apache]: https://www.apache.org/
