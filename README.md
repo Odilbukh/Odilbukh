@@ -13,7 +13,6 @@ Adobe W3C
 
 WebStorm PhpStorm Sublime PostMan
 
-
 Technologies I am familiar with:
 
 Linux Terminal Linux Shell Gulp Npm Php
