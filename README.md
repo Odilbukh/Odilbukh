@@ -2,10 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
-![](https://komarev.com/ghpvc/?username=siberfx&style=plastic&label=views&color=orange)
- <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/backpack-leafjs?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/siberfx/backpack-leafjs?style=plastic&labelColor=343b41"/>
- [![Latest Version on Packagist](https://img.shields.io/packagist/dt/siberfx/backpack-leafletjs?style=plastic)](https://packagist.org/packages/siberfx/backpack-leafletjs)
-<!--
+
 **siberfx/siberfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
