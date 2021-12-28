@@ -86,3 +86,4 @@ Here are some ideas to get you started:
 
 [pusher]: https://pusher.com/
 [apache]: https://www.apache.org/
+[nginx]: https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png
