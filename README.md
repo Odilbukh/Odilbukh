@@ -5,12 +5,30 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools and Programs:
+
+Linux Linux Ubuntu
+
+Adobe W3C
+
+WebStorm PhpStorm Sublime PostMan
+
+
+Technologies I am familiar with:
+
+Linux Terminal Linux Shell Gulp Npm Php
+
+MySQL Redis Bootstrap HTML5 CSS3 Vue Vue
+
+Docker Laravel Symfony Yii
+
+
+
+Web Services I prefer to use:
+
+Apache Nginx
+
+Connect with me:
+
+siberfx.nl Odilbukh | LinkedIn Odilbukh | Instagram Odilbukh | Twitter Odilbukh | StackOverflow Odilbukh | E-mail Odilbukh | Telegram Odilbukh 
+
