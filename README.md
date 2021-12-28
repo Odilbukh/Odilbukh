@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
 [<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
 [<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/apache.png" />][apache]
-[<img align="left" alt="Vue" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nginx_logo_icon_168081.png" />][nginx]
+[<img align="left" alt="Vue" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png" />][nginx]
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
