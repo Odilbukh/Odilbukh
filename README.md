@@ -7,7 +7,8 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
-
+<br />
+<br />
 
 ### Tools and Programs:
 [<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
