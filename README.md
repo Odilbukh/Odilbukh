@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
 [<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
-[<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/apache.png" />][apache]
-[<img align="left" alt="Vue" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png" />][nginx]
+[<img align="left" alt="Apache" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/apache.png" />][apache]
+[<img align="left" alt="Nginx" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png" />][nginx]
 [<img align="left" alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" />][composer]
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
-[<img align="left" alt="Vue" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
-[<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
+[<img align="left" alt="wordpress" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
 
 <br />
 <br />
@@ -71,7 +70,6 @@ Here are some ideas to get you started:
 [html5]: https://www.w3schools.com/html
 [css3]: https://www.w3schools.com/css
 [v3c]: https://www.w3.org
-[vue]: https://vuejs.org
 [docker]: https://docker.com
 [shell]: https://ubuntu.com/tutorials/command-line-for-beginners
 [postman]: https://postman.com
