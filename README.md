@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Statistics
-<br />
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilbukh&theme=algolia)
 <br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odilbukh&theme=algolia)
