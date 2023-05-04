@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odilbukh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilbukh&theme=algolia)
 <br />
