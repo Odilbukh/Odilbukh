@@ -49,8 +49,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Selim's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Odilbukh&theme=algolia)](https://github.com/Odilbukh/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilbukh&theme=algolia)
+<br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odilbukh&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odilbukh&theme=algolia)
+<br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=odilbukh&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odilbukh&theme=algolia&utcOffset=8)
 <br />
 
 [email]: mailto:odil.bukh@gmail.com
