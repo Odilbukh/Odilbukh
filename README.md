@@ -50,8 +50,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Statistics
-
-![](http://github-readme-streak-stats.herokuapp.com?user=odilbukh&theme=dark&background=000000)]
 <br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilbukh&theme=algolia)
 <br />
