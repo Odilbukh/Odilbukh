@@ -10,30 +10,23 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Tools and Programs:
-[<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
-[<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
-[<img align="left" alt="Docker" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
-[<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
-[<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
-[<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
+### Languages & Frameworks
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Odilbukh)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Odilbukh)
+[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/Odilbukh)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Odilbukh)
+[![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/Odilbukh)
+[![PHPUnit](https://img.shields.io/badge/phpunit-black?style=for-the-badge&logo=phpunit)](https://github.com/Odilbukh)
 
 <br />
 <br />
 
-### Technologies I am familiar with:
-[<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
-[<img align="left" alt="Laravel" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.png" />][laravel]
-[<img align="left" alt="Symfony" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
-[<img align="left" alt="Linux Terminal" width="30px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
-[<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
-[<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
-[<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
-[<img align="left" alt="Apache" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/apache.png" />][apache]
-[<img align="left" alt="Nginx" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png" />][nginx]
-[<img align="left" alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" />][composer]
-[<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
-[<img align="left" alt="wordpress" width="30px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
+### Tools and Technologies:
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Odilbukh)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Odilbukh)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/Odilbukh)
+[![Apache](https://img.shields.io/badge/apache-black?style=for-the-badge&logo=apcahe)](https://github.com/Odilbukh)
+[![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)](https://github.com/Odilbukh)
 
 <br />
 <br />
