@@ -7,8 +7,6 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
-<br />
-<br />
 
 ### Languages & Frameworks
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Odilbukh)
@@ -18,8 +16,6 @@ Here are some ideas to get you started:
 [![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://github.com/Odilbukh)
 [![PHPUnit](https://img.shields.io/badge/phpunit-black?style=for-the-badge&logo=phpunit)](https://github.com/Odilbukh)
 
-<br />
-<br />
 
 ### Tools and Technologies:
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Odilbukh)
@@ -28,16 +24,15 @@ Here are some ideas to get you started:
 [![Apache](https://img.shields.io/badge/apache-black?style=for-the-badge&logo=apcahe)](https://github.com/Odilbukh)
 [![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)](https://github.com/Odilbukh)
 
-<br />
-<br />
-<br />
 
 ### Connect with me:
 
-[<img align="left" alt="siberfx | E-mail" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
-[<img align="left" alt="siberfx | Telegram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
-[<img align="left" alt="siberfx | LinkedIn" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
-[<img align="left" alt="siberfx | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
+<a href="https://www.linkedin.com/in/odiljon-davron/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:odil.bukh@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+</a>
 
 <br />
 <br />
